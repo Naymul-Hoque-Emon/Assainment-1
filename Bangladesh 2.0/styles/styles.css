@@ -1,0 +1,259 @@
+.fira-sans-regular {
+    font-family: "Fira Sans", sans-serif;
+    font-style: normal;
+  }
+  
+ /*  Colours */
+ 
+  body {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  }
+
+  main{
+    max-width: auto;
+    margin: 0 auto;
+  }
+
+  .main-bg{
+    color: #F5F5F5;
+  }
+
+  .second-bg{
+    color: #C6E4D6;
+  }
+
+  .dark-white{
+    color: #0E0E0E;
+    opacity: 50%;
+  }
+  
+  section{
+  margin: 0 160px 0 160px;
+  }
+  
+
+  /* buttons */ 
+  .btn-primary{
+    background-color: #006A50;
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 600;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 8px;
+  }
+
+
+  .sign-in-btn {
+    background-color: #f9f9f9;
+    color: #006A50;
+    border: 2px solid #006A50;
+    padding: 15px 30px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 18px;
+    font-family: "Fira Sans", sans-serif;
+  }
+  
+  .sign-in-btn:hover {
+    background-color: 006A50;
+    color: white;
+  }
+
+  /* Navigation baar */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 160px 0 160px;
+}
+
+.nav-title{
+    font-weight: bold;
+    font-size: 32;
+}
+
+nav ul li {
+    list-style: none;
+}
+
+nav li a {
+    text-decoration: none;
+    font-size: 18;
+}
+
+/* Sections */
+
+section{
+  margin: 0 160px 0 160px;
+}
+
+.section-title{
+  font-size: 40px;
+  font-weight: bold;
+  color: #181818;
+}
+
+.section-description{
+  font-size: 16px;
+  color: #757575;
+}
+
+.text-center{
+  text-align: left;
+}
+
+
+/* Banner Styles */
+.banner{
+    background-color: #C6E4D6;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 160px 0 160px;
+    border-radius: 24px;
+    padding: 60px 60px;
+}
+
+.banner-content{
+    max-width: 580px;
+}
+
+.banner-name{
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.banner-title{
+    font-weight: bold;
+    font-size: 56px;
+}
+
+.banner-hero{
+
+}
+
+/* about syles */
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+}
+
+/* skills section styles */
+.Pillars-container{
+  display: flex;
+  gap: 24px;
+}
+
+.Pillars{
+  margin-top: 130px;
+  padding: 30px;
+  border-radius: 24px;
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+
+/* The Vision of Future */
+
+.sec-title{
+  font-weight: bold;
+  font-size: 40;
+}
+
+.sec-description{
+  font-weight: 400;
+  font-size: 16;
+}
+
+.first-section-1{
+  margin: 160px 160px;
+}
+.first-sections{
+  display: flex;
+  gap: 24px;
+}
+.fisrt-section-one{
+  padding: 32px;
+  border-radius: 16px;
+  background-color: rgba(84, 144, 245, 0.20);
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+.btn-section-one{
+  background-color: #5490F5;
+  color: white;
+  font-size: 16px;
+  padding: 11px 20px;
+  border-radius: 5px;
+  border: none;
+
+}
+.fisrt-section-two{
+  padding: 32px;
+  border-radius: 16px;
+  background-color: rgba(198, 228, 214, 100%);
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+.btn-section-two{
+  background-color: #09A15C;
+  color: white;
+  font-size: 16px;
+  padding: 11px 20px;
+  border-radius: 5px;
+  border: none;
+
+}
+.fisrt-section-three{
+  padding: 32px;
+  border-radius: 16px;
+  background-color: rgba(247, 235, 207, 100%);
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+.btn-section-three{
+  background-color: #FFC239;
+  color: white;
+  font-size: 16px;
+  padding: 11px 20px;
+  border-radius: 5px;
+  border: none;
+
+}
+
+/* Recent News */
+
+/* section-satellite styles */
+.section-satellite{
+  display: flex;
+  margin: 50px 160px;
+  gap: 24px;
+}
+
+.recent-news-box{
+  margin: 0px;
+}
+.img-recent-news{
+  padding: 0px 24px;
+  border-radius: 24px;
+}
+.recent-div-section{
+  margin-top: 0px;
+}
+
+.section-hover{
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 24px;
+  padding: 30px;
+  margin-top: 24;
+}
+
+.recent-news-title{
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.recent-news-description{
+  font-weight: 400;
+  font-size: 16;
+}
