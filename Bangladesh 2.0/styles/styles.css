@@ -257,3 +257,81 @@ section{
   font-weight: 400;
   font-size: 16;
 }
+
+/* section-donate styles */
+.section-donate{
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  margin: 32px 160px;
+  gap: 24px;
+  display: inline-flex;
+}
+.donate-one{
+  padding: 10px 40px;
+  border-radius: 16px;
+  background-color: #FFFFFF;
+  border: rgba(14, 14, 14, 15%);
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+.donate-two{
+  padding: 10px 40px;
+  border-radius: 16px;
+  background-color: #C6E4D6;
+  border: rgba(14, 14, 14, 15%);
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+.donate-three{
+  padding: 10px 40px;
+  border-radius: 16px;
+  background-color: #FFFFFF;
+  border: rgba(14, 14, 14, 15%);
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+.donate-four{
+  padding: 10px 40px;
+  border-radius: 16px;
+  background-color: #FFFFFF;
+  border: rgba(14, 14, 14, 15%);
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+.donate-input{
+  background-color: white;
+  padding:18px 40px;
+  width: 1000px;
+  border: #b9abab26;
+  text-align: center;
+  color: #000000;
+}
+.button:hover .stars{
+  display: block;
+  filter: drop-shadow(0 0 10px #fffdef);
+}
+
+.donate-today-title{
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.donate-today-description{
+  font-weight: 400;
+  font-size: 16;
+}
+
+.button-input{
+  font-weight: 400;
+  font-size: 20;
+}
+
+.donate-align{
+  text-align: center;
+}
+
+.donate-tk{
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.gaps{
+  margin-top: 32px;
+}
