@@ -191,8 +191,8 @@ section{
 .fisrt-section-two{
   padding: 32px;
   border-radius: 16px;
-  background-color: rgba(198, 228, 214, 100%);
-  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+  background-color: #c6e4d6;
+  box-shadow: 0px 6px 50px 0px #0000000f;
 }
 .btn-section-two{
   background-color: #09A15C;
@@ -206,8 +206,8 @@ section{
 .fisrt-section-three{
   padding: 32px;
   border-radius: 16px;
-  background-color: rgba(247, 235, 207, 100%);
-  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+  background-color: #f7ebcf;
+  box-shadow: 0px 6px 50px 0px #0000000f;
 }
 .btn-section-three{
   background-color: #FFC239;
@@ -271,29 +271,29 @@ section{
   padding: 10px 40px;
   border-radius: 16px;
   background-color: #FFFFFF;
-  border: rgba(14, 14, 14, 15%);
-  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+  border: #0e0e0e26;
+  box-shadow: 0px 6px 50px 0px #0000000f;
 }
 .donate-two{
   padding: 10px 40px;
   border-radius: 16px;
   background-color: #C6E4D6;
-  border: rgba(14, 14, 14, 15%);
-  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+  border: #0e0e0e26;
+  box-shadow: 0px 6px 50px 0px #0000000f;
 }
 .donate-three{
   padding: 10px 40px;
   border-radius: 16px;
   background-color: #FFFFFF;
-  border: rgba(14, 14, 14, 15%);
-  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+  border: #0e0e0e26;
+  box-shadow: 0px 6px 50px 0px #0000000f;
 }
 .donate-four{
   padding: 10px 40px;
   border-radius: 16px;
   background-color: #FFFFFF;
-  border: rgba(14, 14, 14, 15%);
-  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+  border: #0e0e0e26;
+  box-shadow: 0px 6px 50px 0px #0000000f;
 }
 .donate-input{
   background-color: white;
@@ -334,4 +334,43 @@ section{
 
 .gaps{
   margin-top: 32px;
+}
+
+/* Subscribe to our Newsletter section */
+
+.newsletter-section {
+  background-color: #C6E4D6;
+  padding: 60px 30px;
+  border-radius: 16px;
+  text-align: center;
+  max-width: auto;
+  margin: 0 160px 0 160px;
+}
+
+.subscriber-div{
+  background-color: #C6E4D6;
+  border-radius: 24px;
+  text-align: center;
+  padding: 50px 120px;
+  margin: 0 160px 0 160px;
+
+}
+.subscriber-input{
+  background-color: white;
+  padding:18px 40px;
+  width: 765px;
+  border: none;
+  border-radius: 8px 0px 0px 8px;
+  text-align: center;
+  color: #0000004d;
+}
+
+.subscribe-title{
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.subscribe-description{
+  font-weight: 400;
+  font-size: 16;
 }
